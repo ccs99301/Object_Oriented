@@ -1,6 +1,6 @@
 import java.math.BigInteger;
 
-public class hw1j
+public class fib_j
 {
 	public static void main(String args[])
 	{
